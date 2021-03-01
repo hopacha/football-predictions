@@ -1,2 +1,2 @@
 # football-predictions
-match outcome prediction in football
+Прогнозирование результатов футбольных матчей с использованием моделей машинного обучения
